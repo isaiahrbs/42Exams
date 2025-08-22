@@ -12,5 +12,6 @@ Covers **C programming**.
 | <img src="https://github.com/isaiahrbs/images/blob/main/Grades/100.png" width="90"> | [Exam 1](URL_HERE) | **C** |
 | <img src="https://github.com/isaiahrbs/images/blob/main/Grades/100.png" width="90"> | [Exam 2](URL_HERE) | **C** |
 | <img src="https://github.com/isaiahrbs/images/blob/main/Grades/100.png" width="90"> | [Exam 3](URL_HERE) | **C** |
+| <img src="https://github.com/isaiahrbs/images/blob/main/Grades/100.png" width="90"> | [Exam 4](URL_HERE) | **C** |
 
 ---
